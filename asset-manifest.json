@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PantoneColorMixer/static/css/main.04497190.css",
+    "main.js": "/PantoneColorMixer/static/js/main.f24ce209.js",
+    "static/js/453.bb937b33.chunk.js": "/PantoneColorMixer/static/js/453.bb937b33.chunk.js",
+    "index.html": "/PantoneColorMixer/index.html",
+    "main.04497190.css.map": "/PantoneColorMixer/static/css/main.04497190.css.map",
+    "main.f24ce209.js.map": "/PantoneColorMixer/static/js/main.f24ce209.js.map",
+    "453.bb937b33.chunk.js.map": "/PantoneColorMixer/static/js/453.bb937b33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04497190.css",
+    "static/js/main.f24ce209.js"
+  ]
+}
