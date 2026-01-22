@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PantoneColorMixer/static/css/main.04497190.css",
-    "main.js": "/PantoneColorMixer/static/js/main.f24ce209.js",
+    "main.css": "/PantoneColorMixer/static/css/main.e1e73270.css",
+    "main.js": "/PantoneColorMixer/static/js/main.19ae1be3.js",
     "static/js/453.bb937b33.chunk.js": "/PantoneColorMixer/static/js/453.bb937b33.chunk.js",
     "index.html": "/PantoneColorMixer/index.html",
-    "main.04497190.css.map": "/PantoneColorMixer/static/css/main.04497190.css.map",
-    "main.f24ce209.js.map": "/PantoneColorMixer/static/js/main.f24ce209.js.map",
+    "main.e1e73270.css.map": "/PantoneColorMixer/static/css/main.e1e73270.css.map",
+    "main.19ae1be3.js.map": "/PantoneColorMixer/static/js/main.19ae1be3.js.map",
     "453.bb937b33.chunk.js.map": "/PantoneColorMixer/static/js/453.bb937b33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04497190.css",
-    "static/js/main.f24ce209.js"
+    "static/css/main.e1e73270.css",
+    "static/js/main.19ae1be3.js"
   ]
 }
